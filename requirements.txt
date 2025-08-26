@@ -1,0 +1,3 @@
+gradio
+snowflake-connector-python
+pandas
